@@ -4,7 +4,15 @@
 
 [Android复习资料——Android知识点汇总（一）](https://juejin.im/post/5d19cec5f265da1baa1e8c0a#heading-51)
 
-### 底层知识：
+[史上最全的Android面试题集锦](https://juejin.im/post/5d2eea56f265da1b7004df0d)
+
+[ForAndroidInterview](https://github.com/Mr-YangCheng/ForAndroidInterview)
+
+[妈个蛋每日面试题](https://github.com/codeegginterviewgroup/CodeEggDailyInterview)
+
+[每日一道面试题](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247492738&idx=1&sn=460ec0f57ef4db892bfc700ff81ef562&chksm=96ce45cfa1b9ccd962a551ff651b332b22ef378e264ab1c3a508f7be4a2c1d3ae354b05c0418&scene=21#wechat_redirect)
+
+### 源码分析
 
 1. Binder
 
@@ -25,14 +33,21 @@
 4. Service启动流程
 
    - [写给Android App开发人员看的Android底层知识（5）](https://www.jianshu.com/p/058d35e01dd1)
+   - [死磕Android_Service启动流程分析](https://zhuanlan.zhihu.com/p/69070398)
+   - [死磕Android_Service绑定流程分析(二)](https://zhuanlan.zhihu.com/p/69310436)
 
 5. BroadcastReceiver
 
    - [写给Android App开发人员看的Android底层知识（6）](https://www.jianshu.com/p/ddd79c125bdf)
+   - [死磕Android_BroadcastReceiver 工作过程](https://zhuanlan.zhihu.com/p/69877733)
+   - [Android四大组件：BroadcastReceiver史上最全面解析](https://www.jianshu.com/p/ca3d87a4cdf3)
+   - [Android源码解析四大组件系列（五）---广播的注册过程](https://www.jianshu.com/p/ca02cecc0d1d)
 
 6. ContentProvider
 
    - [写给Android App开发人员看的Android底层知识（7）](https://www.jianshu.com/p/c2ac0a54cdaa)
+   - [死磕Android_ContentProvider 启动](https://zhuanlan.zhihu.com/p/70042936)
+   - [Android：关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
 
 7. PMS
 
@@ -44,44 +59,54 @@
    - [关于 Handler 的灵魂三问](https://juejin.im/post/5c9896ca6fb9a070f30b0e18)
    - [Handler深入浅出](https://www.jianshu.com/p/67eb02c8bdce)
 
-9. 
+9. ViewPager
 
-### 源码分析：
-
-1. ViewPager
    - [ViewPager源码分析（1）：onMeasure、onLayout](https://www.jianshu.com/p/b0830f9b44bb)
    - [ViewPager源码分析（2）：滑动及冲突处理](https://www.jianshu.com/p/ea5de4925b36)
    - [ViewPager源码分析（3）：与PagerAdapter 交互](https://www.jianshu.com/p/204efa98a18d)
-2. ThreadLocal
+
+10. ThreadLocal
+
    - [ThreadLocal原理解析（1）：数据存取](https://www.jianshu.com/p/a31f6d889647)
+
    - [ThreadLocal原理解析（2）：ThreadLocalMap源码解析](https://www.jianshu.com/p/27e309e1d0f5)
-3. Binder
-4. BroadcastReceiver的源码分析
-   - [Android源码解析四大组件系列（五）---广播的注册过程](https://www.jianshu.com/p/ca02cecc0d1d)
-5. View工作原理
-   - [死磕Android_View工作原理你需要知道的一切](https://zhuanlan.zhihu.com/p/67451562)
-6. 
 
+11. View工作原理
 
+    - [死磕Android_View工作原理你需要知道的一切](https://zhuanlan.zhihu.com/p/67451562)
 
-### 基础知识：
+### 性能优化：
 
-1. BroadcastReceiver
-   - [Android四大组件：BroadcastReceiver史上最全面解析](https://www.jianshu.com/p/ca3d87a4cdf3)
-2. ContentProvider
-   - [Android：关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
-
-
+​	[Android性能优化的几点建议](https://juejin.im/post/5d08eb61f265da1b897ad2df)
 
 ### 第三方框架：
 
 1. OkHttp
    - [OkHttp 源码解析（一）请求流程分析](https://juejin.im/post/5d220e4a51882514bf5bf1da)
    - [OkHttp 源码解析（二）拦截器原理分析](https://juejin.im/post/5d23dd635188250fcf17c311)
+
 2. EventBus
+
    - [再学Android之EventBus源码分析](https://juejin.im/post/5d1a1987e51d454f6f16ec3f)
 
-1. 
+3. RxJava
+
+4. Retrofit
+
+   - [Retrofit源码分析](https://segmentfault.com/a/1190000016835505)
+   - [Android：手把手带你 深入读懂 Retrofit 2.0 源码](https://www.jianshu.com/p/0c055ad46b6c)
+   - [Retrofit源码解析](https://yuqirong.me/2017/08/03/Retrofit%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
+   - [Retrofit基本使用和源码解析](https://www.jianshu.com/p/989c46a858a4)
+
+   - [Android Retrofit 2.5.0使用基础详解](https://juejin.im/post/5c9cb008e51d455ec63f7aa6)
+
+5. 热修复
+
+6. 插件化
+
+7. ARouter
+
+8. LeakCanary
 
 ### 计算机网络：
 

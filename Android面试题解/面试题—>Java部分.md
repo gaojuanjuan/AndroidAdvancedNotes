@@ -14,6 +14,8 @@
 
 **Q：String、StringBuffer和StringBuilder的区别？**
 
+[你真的了解String和StringBuilder吗](https://juejin.im/post/5d161dc06fb9a07ec63b28be)
+
 > - 技术点：String
 > - 参考回答： 
 >   - String是字符串常量，而StringBuffer、StringBuilder都是字符串变量，即String对象一创建后不可更改，而后两者的对象是可更改的：
@@ -79,7 +81,7 @@
 >     恢复的异常情况，表示程序本身可以处理的异常。又分两大类： 
 >
 >     - RuntimeException（运行时异常）：由程序**自身**的问题导致产生的异常；如NullPointerException（空指针异常）、IndexOutOfBoundsException（下标越界异常）；属于**不可查**异常。
->
+>    
 >     - 非运行时异常：由程序
 >
 >       外部
