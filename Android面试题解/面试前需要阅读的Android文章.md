@@ -82,30 +82,24 @@
 ### 第三方框架：
 
 1. OkHttp
+   - [死磕Android_OkHttp3 原理探究](https://zhuanlan.zhihu.com/p/74745031)
    - [OkHttp 源码解析（一）请求流程分析](https://juejin.im/post/5d220e4a51882514bf5bf1da)
    - [OkHttp 源码解析（二）拦截器原理分析](https://juejin.im/post/5d23dd635188250fcf17c311)
-
 2. EventBus
 
    - [再学Android之EventBus源码分析](https://juejin.im/post/5d1a1987e51d454f6f16ec3f)
-
 3. RxJava
-
 4. Retrofit
 
+   - [死磕Android_Retrofit 原理解析](https://zhuanlan.zhihu.com/p/75395280)
    - [Retrofit源码分析](https://segmentfault.com/a/1190000016835505)
    - [Android：手把手带你 深入读懂 Retrofit 2.0 源码](https://www.jianshu.com/p/0c055ad46b6c)
    - [Retrofit源码解析](https://yuqirong.me/2017/08/03/Retrofit%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
    - [Retrofit基本使用和源码解析](https://www.jianshu.com/p/989c46a858a4)
-
    - [Android Retrofit 2.5.0使用基础详解](https://juejin.im/post/5c9cb008e51d455ec63f7aa6)
-
-5. 热修复
-
+5. Glide
 6. 插件化
-
 7. ARouter
-
 8. LeakCanary
 
 ### 计算机网络：
