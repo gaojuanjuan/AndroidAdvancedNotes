@@ -89,15 +89,12 @@
    - [死磕Android_OkHttp3 原理探究](https://zhuanlan.zhihu.com/p/74745031)
    - [OkHttp 源码解析（一）请求流程分析](https://juejin.im/post/5d220e4a51882514bf5bf1da)
    - [OkHttp 源码解析（二）拦截器原理分析](https://juejin.im/post/5d23dd635188250fcf17c311)
-
 2. EventBus
 
    - [再学Android之EventBus源码分析](https://juejin.im/post/5d1a1987e51d454f6f16ec3f)
-
+   - [Android事件总线EventBus源码剖析](https://juejin.im/post/5d524435f265da03de3af6e3)
 3. RxJava
-
    - [Android：图文解析带你快速了解RxJava原理](https://www.jianshu.com/p/d52ef3ad7460)
-
 4. Retrofit
 
    - [死磕Android_Retrofit 原理解析](https://zhuanlan.zhihu.com/p/75395280)
@@ -106,13 +103,9 @@
    - [Retrofit源码解析](https://yuqirong.me/2017/08/03/Retrofit%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)
    - [Retrofit基本使用和源码解析](https://www.jianshu.com/p/989c46a858a4)
    - [Android Retrofit 2.5.0使用基础详解](https://juejin.im/post/5c9cb008e51d455ec63f7aa6)
-
 5. Glide
-
 6. 插件化
-
 7. ARouter
-
 8. LeakCanary
 
 ### 计算机网络：
