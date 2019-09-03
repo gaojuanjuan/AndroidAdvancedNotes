@@ -12,6 +12,10 @@
 
 [每日一道面试题](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247492738&idx=1&sn=460ec0f57ef4db892bfc700ff81ef562&chksm=96ce45cfa1b9ccd962a551ff651b332b22ef378e264ab1c3a508f7be4a2c1d3ae354b05c0418&scene=21#wechat_redirect)
 
+[2019.07 Android面试集锦](https://mp.weixin.qq.com/s/z4IXL6t3oLNRVuyd4UspEw)
+
+[1-3年Android开发工程师面试经验分享](https://www.jianshu.com/p/32c012e79a2a)
+
 ### 源码分析
 
 1. Binder
@@ -104,6 +108,9 @@
    - [Retrofit基本使用和源码解析](https://www.jianshu.com/p/989c46a858a4)
    - [Android Retrofit 2.5.0使用基础详解](https://juejin.im/post/5c9cb008e51d455ec63f7aa6)
 5. Glide
+   - [Glide 源码分析解读-基于最新版Glide 4.9.0](https://www.jianshu.com/p/9bb50924d42a)
+   - [Glide 源码分析解读-缓存模块-基于最新版Glide 4.9.0](https://www.jianshu.com/p/62b7f990ee83)
+   - 
 6. 插件化
 7. ARouter
 8. LeakCanary
