@@ -79,6 +79,7 @@
 11. View工作原理
 
     - [死磕Android_View工作原理你需要知道的一切](https://zhuanlan.zhihu.com/p/67451562)
+    - [Android 自定义 View 最少必要知识](https://juejin.im/post/5d6c8f7cf265da03d42fbe58#heading-2)
 
 ### 性能优化：
 
