@@ -25,68 +25,90 @@
 1. Binder
 
    - [写给Android App开发人员看的Android底层知识（1）](https://www.jianshu.com/p/47731149c93c)
+
 2. App（Activity）的启动流程
+
+   - [Android App启动过程](https://juejin.im/post/5d6cad7d518825138e2b587a#comment)
+   - [理解Android进程创建流程](http://gityuan.com/2016/03/26/app-process-create/)
 
    - [死磕Android_App 启动过程（含 Activity 启动过程）](https://zhuanlan.zhihu.com/p/67451239)
 
    - [写给Android App开发人员看的Android底层知识（2）](https://www.jianshu.com/p/94a929b66d9d)
    - [写给Android App开发人员看的Android底层知识（3）](https://www.jianshu.com/p/9fc313b885b4)
    - [写给Android App开发人员看的Android底层知识（4）](https://www.jianshu.com/p/75fd59a0b0ce)
+
 3. Android中的Context
 
    - [写给Android App开发人员看的Android底层知识（4）](https://www.jianshu.com/p/75fd59a0b0ce)
+
 4. Service启动流程
 
    - [写给Android App开发人员看的Android底层知识（5）](https://www.jianshu.com/p/058d35e01dd1)
    - [死磕Android_Service启动流程分析](https://zhuanlan.zhihu.com/p/69070398)
    - [死磕Android_Service绑定流程分析(二)](https://zhuanlan.zhihu.com/p/69310436)
+
 5. BroadcastReceiver
 
    - [写给Android App开发人员看的Android底层知识（6）](https://www.jianshu.com/p/ddd79c125bdf)
    - [死磕Android_BroadcastReceiver 工作过程](https://zhuanlan.zhihu.com/p/69877733)
    - [Android四大组件：BroadcastReceiver史上最全面解析](https://www.jianshu.com/p/ca3d87a4cdf3)
    - [Android源码解析四大组件系列（五）---广播的注册过程](https://www.jianshu.com/p/ca02cecc0d1d)
+
 6. ContentProvider
 
    - [写给Android App开发人员看的Android底层知识（7）](https://www.jianshu.com/p/c2ac0a54cdaa)
    - [死磕Android_ContentProvider 启动](https://zhuanlan.zhihu.com/p/70042936)
    - [Android：关于ContentProvider的知识都在这里了！](https://www.jianshu.com/p/ea8bc4aaf057)
+
 7. PMS
 
    - [写给Android App开发人员看的Android底层知识（8）](https://www.jianshu.com/p/6f1de0ac7979)
+
 8. Handler
 
    - [Handler机制你需要知道的一切](https://zhuanlan.zhihu.com/p/66550436)
    - [关于 Handler 的灵魂三问](https://juejin.im/post/5c9896ca6fb9a070f30b0e18)
    - [Handler深入浅出](https://www.jianshu.com/p/67eb02c8bdce)
    - [Android之Handler学习](https://juejin.im/post/5d4fe33e6fb9a06b233cb0b4)
+
 9. ViewPager
 
    - [ViewPager源码分析（1）：onMeasure、onLayout](https://www.jianshu.com/p/b0830f9b44bb)
    - [ViewPager源码分析（2）：滑动及冲突处理](https://www.jianshu.com/p/ea5de4925b36)
    - [ViewPager源码分析（3）：与PagerAdapter 交互](https://www.jianshu.com/p/204efa98a18d)
+
 10. ThreadLocal
 
   - [ThreadLocal原理解析（1）：数据存取](https://www.jianshu.com/p/a31f6d889647)
 
   - [ThreadLocal原理解析（2）：ThreadLocalMap源码解析](https://www.jianshu.com/p/27e309e1d0f5)
+
 11. View工作原理
 
     - [死磕Android_View工作原理你需要知道的一切](https://zhuanlan.zhihu.com/p/67451562)
     - [Android 自定义 View 最少必要知识](https://juejin.im/post/5d6c8f7cf265da03d42fbe58#heading-2)
     - [探索 Android 自定义控件：基础图形](https://juejin.im/post/5d61514df265da03d60f0ab6)
     - [Android 自定义 View 最少必要知识](https://juejin.im/post/5d6c8f7cf265da03d42fbe58#heading-10)
+
 12. 动画
     - [Android Animation：这一次让你彻底了解 Android Tween Animation](https://juejin.im/post/5c84d9c25188257ed73dc16f)
     - [Android Animation：这一次让你彻底了解 Android Frame Animation](https://juejin.im/post/5c86e91ee51d453c887b6797)
     - [Android Animation：这一次让你彻底了解 Android Property Animation](https://juejin.im/post/5c8e5c1e6fb9a070b24b067f)
+
 13. View事件分发
     - [重学安卓：学习 View 事件分发，就像外地人上了黑车！](https://juejin.im/post/5d3140c951882565dd5a66ef)
     - [解惑requestDisallowInterceptTouchEvent](https://www.jianshu.com/p/7e92121814ed)
+
 14. ListView
+
+    - [ListView 源码详解 有这一篇就够了！！！](https://blog.csdn.net/u012954720/article/details/80664943)
+
 15. RecyclerView
+
 16. 系统打包流程
+
 17. SharedPrefrence源码和问题点
+
 18. LRUCache
 
 ### 性能优化：
