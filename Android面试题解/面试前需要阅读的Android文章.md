@@ -81,8 +81,8 @@
 10. ThreadLocal
 
   - [ThreadLocal原理解析（1）：数据存取](https://www.jianshu.com/p/a31f6d889647)
-
   - [ThreadLocal原理解析（2）：ThreadLocalMap源码解析](https://www.jianshu.com/p/27e309e1d0f5)
+  - [不用背的ThreadLocal原理](https://juejin.im/post/5d6d32dbe51d4561ac7bcd1b>)
 
 11. View工作原理
 
