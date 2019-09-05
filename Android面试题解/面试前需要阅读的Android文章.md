@@ -25,6 +25,7 @@
 1. Binder
 
    - [写给Android App开发人员看的Android底层知识（1）](https://www.jianshu.com/p/47731149c93c)
+   - [3分钟带你看懂android的Binder机制](https://juejin.im/post/5c444a67f265da612c5e29e1)
 
 2. App（Activity）的启动流程
 
