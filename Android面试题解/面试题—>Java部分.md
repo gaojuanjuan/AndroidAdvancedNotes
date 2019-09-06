@@ -81,7 +81,7 @@
 >     恢复的异常情况，表示程序本身可以处理的异常。又分两大类： 
 >
 >     - RuntimeException（运行时异常）：由程序**自身**的问题导致产生的异常；如NullPointerException（空指针异常）、IndexOutOfBoundsException（下标越界异常）；属于**不可查**异常。
->    
+>        
 >     - 非运行时异常：由程序
 >
 >       外部

@@ -1,26 +1,23 @@
-# 需要阅读的文章
+## 面试题总结
 
+- [Android复习资料——Android知识点汇总（一）](https://juejin.im/post/5d19cec5f265da1baa1e8c0a#heading-51)
 
+- [史上最全的Android面试题集锦](https://juejin.im/post/5d2eea56f265da1b7004df0d)
 
-[Android复习资料——Android知识点汇总（一）](https://juejin.im/post/5d19cec5f265da1baa1e8c0a#heading-51)
+- [ForAndroidInterview](https://github.com/Mr-YangCheng/ForAndroidInterview)
 
-[史上最全的Android面试题集锦](https://juejin.im/post/5d2eea56f265da1b7004df0d)
+- [妈个蛋每日面试题](https://github.com/codeegginterviewgroup/CodeEggDailyInterview)
 
-[ForAndroidInterview](https://github.com/Mr-YangCheng/ForAndroidInterview)
+- [每日一道面试题](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247492738&idx=1&sn=460ec0f57ef4db892bfc700ff81ef562&chksm=96ce45cfa1b9ccd962a551ff651b332b22ef378e264ab1c3a508f7be4a2c1d3ae354b05c0418&scene=21#wechat_redirect)
 
-[妈个蛋每日面试题](https://github.com/codeegginterviewgroup/CodeEggDailyInterview)
+- [2019.07 Android面试集锦](https://mp.weixin.qq.com/s/z4IXL6t3oLNRVuyd4UspEw)
 
-[每日一道面试题](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247492738&idx=1&sn=460ec0f57ef4db892bfc700ff81ef562&chksm=96ce45cfa1b9ccd962a551ff651b332b22ef378e264ab1c3a508f7be4a2c1d3ae354b05c0418&scene=21#wechat_redirect)
+- [1-3年Android开发工程师面试经验分享](https://www.jianshu.com/p/32c012e79a2a)
 
-[2019.07 Android面试集锦](https://mp.weixin.qq.com/s/z4IXL6t3oLNRVuyd4UspEw)
+- [金三银四，你可以行动了](https://juejin.im/post/5c6de7066fb9a049db73b8f2)
+- [2019校招Android面试题解1.0（上篇）](https://www.jianshu.com/p/718aa3c1a70b)
 
-[1-3年Android开发工程师面试经验分享](https://www.jianshu.com/p/32c012e79a2a)
-
-[金三银四，你可以行动了](https://juejin.im/post/5c6de7066fb9a049db73b8f2)
-
-### 源码（原理）分析
-
----
+## 源码（原理）分析
 
 1. Binder
 
@@ -112,7 +109,7 @@
 
 18. LRUCache
 
-### 性能优化：
+## 性能优化
 
 1. 网络：API 优化、流量优化、弱网优化
 
@@ -142,7 +139,7 @@
 
 ​	- [Android性能优化的几点建议](https://juejin.im/post/5d08eb61f265da1b897ad2df)
 
-### 第三方框架：
+## 第三方框架
 
 1. OkHttp
 
@@ -175,14 +172,32 @@
 9. LeakCanary
 10. BlockCanary
 
-### 计算机网络：
+## 计算机网络
+
+当你按输入www.baidu.com ，浏览器接收到这个消息之后，浏览器根据自己的算法识别出你要访问的URL,为您展示出来搜索页面和**广告**，那么这些经历了哪些过程呢？
+
+大致过程如下：
+
+- （1）浏览器查询 DNS，获取域名对应的IP地址；
+
+  具体过程包括浏览器搜索自身的DNS缓存、搜索操作系统的DNS缓存、读取本地的Host文件和向本地DNS服	务器进行查询等。
+
+- （2）浏览器获得域名对应的IP地址以后，浏览器向服务器请求建立链接，发起三次握手；
+
+- （3）TCP/IP链接建立起来后，浏览器向服务器发送HTTP请求；
+
+- （4）服务器接收到这个请求，并根据路径参数映射到特定的请求处理器进行处理，并将处理结果及相应的视图返回给浏览器；
+
+- （5）浏览器解析并渲染视图，若遇到对js文件、css文件及图片等静态资源的引用，则重复上述步骤并向服务器请求这些资源；
+
+- （6）浏览器根据其请求到的资源、数据渲染页面，最终向用户呈现一个完整的页面。
 
 1. [计算机网络学习之 Http 相关](https://juejin.im/post/5d15f7e15188256b1c26cdeb)
 2. [计算机网络学习之 Https 相关](https://juejin.im/post/5d1862196fb9a07eec59dfa3)
 3. [面试官（9）：可能是全网最全的http面试答案](https://juejin.im/post/5d032b77e51d45777a126183)
 4. [HTTP 的15个常见知识点复习](https://juejin.im/post/5d0de954e51d4556be5b3a6f)
+5. [一个HTTP打趴80%面试者](https://mp.weixin.qq.com/s/DY4-yV_QXTGUB5_lvAn3LQ)
+6. [HTTP—TCP/IP—SOCKET理解及浅析](https://juejin.im/post/5d71a201f265da03ed1973ca)
 
-### 其他：
 
-1. [Flutter与RN](https://juejin.im/post/5d018eb8e51d4550723b13d9)
 
